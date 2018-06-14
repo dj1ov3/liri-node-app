@@ -23,6 +23,7 @@
     "lodash": "^4.17.10",
     "node-spotify-api": "^1.0.7",
     "request": "^2.87.0",
+    "request-promise": "^4.2.2",
     "require": "^2.4.20",
     "twitter": "^1.7.1"
   },
